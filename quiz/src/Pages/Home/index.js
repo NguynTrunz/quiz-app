@@ -1,11 +1,19 @@
 import { NavLink } from "react-router-dom";
 import "./style.scss"
 import { getCookie } from "../../helpers/cookie";
-import { useSelector } from "react-redux"
+import { useSelector, useDispatch  } from "react-redux"
 function Home() {
 
+  const dispatch = useDispatch();
   const token = getCookie("token")
   const isLogin = useSelector(state => state.loginReducer)
+  useEffect(() => {
+    if (token && !isLogin) {
+      dispatch(checkLogin(true));
+    } else if (!token && isLogin) {
+      dispatch(checkLogin(false));
+    }
+  }, [token, isLogin, dispatch]);
 
   return (
     <>
