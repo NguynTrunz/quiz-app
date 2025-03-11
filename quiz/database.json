@@ -1,0 +1,1490 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bkp9VQy123456"
+    },
+    {
+      "id": "2",
+      "fullName": "Do Thi B",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": "KsZitkp789012"
+    },
+    {
+      "id": "3",
+      "fullName": "Tran Van C",
+      "email": "tranvanc@gmail.com",
+      "password": "tranvanc",
+      "token": "AbCdE123345678"
+    },
+    {
+      "id": "4",
+      "fullName": "Nguyen Van D",
+      "email": "nguyenvand@gmail.com",
+      "password": "nguyenvand",
+      "token": "hasgdhGHAs921"
+    },
+    {
+      "id": "cb6e",
+      "fullName": "Tran Thi E",
+      "email": "tranthie@gmail.com",
+      "password": "tranthie",
+      "token": "0Ug4egpxH8D0gtlKnTtI"
+    },
+    {
+      "id": "bbcf",
+      "fullName": "Nguyen Van F",
+      "email": "nguyenvanf@gmail.com",
+      "password": "nguyenvanf",
+      "token": "jbIu34xUt1X6eKFOPPKl"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "name": "HTML5"
+    },
+    {
+      "id": "2",
+      "name": "CSS3"
+    },
+    {
+      "id": "3",
+      "name": "JavaScript"
+    },
+    {
+      "id": "4",
+      "name": "ReactJS"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "topicId": "1",
+      "question": "HTML là viết tắt của gì?",
+      "answers": [
+        "Hyperlinks and Text Markup Language",
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "2",
+      "topicId": "1",
+      "question": "Thẻ nào dùng để tạo một liên kết trong HTML?",
+      "answers": [
+        "<link>",
+        "<a>",
+        "<href>",
+        "<connect>"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "3",
+      "topicId": "1",
+      "question": "HTML5 giới thiệu thẻ nào để nhúng video?",
+      "answers": [
+        "<video>",
+        "<media>",
+        "<embed>",
+        "<source>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "4",
+      "topicId": "1",
+      "question": "Thẻ nào dùng để tạo danh sách có thứ tự?",
+      "answers": [
+        "<ul>",
+        "<ol>",
+        "<li>",
+        "<dl>"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "5",
+      "topicId": "1",
+      "question": "Thuộc tính nào trong HTML dùng để đặt tên class?",
+      "answers": [
+        "id",
+        "class",
+        "name",
+        "type"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "6",
+      "topicId": "2",
+      "question": "Thuộc tính nào dùng để thay đổi màu nền trong CSS?",
+      "answers": [
+        "background-color",
+        "color",
+        "bgcolor",
+        "background"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "7",
+      "topicId": "2",
+      "question": "Đơn vị nào trong CSS là đơn vị tương đối?",
+      "answers": [
+        "px",
+        "em",
+        "cm",
+        "pt"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "8",
+      "topicId": "2",
+      "question": "Cách nào để làm tròn viền trong CSS?",
+      "answers": [
+        "border-radius",
+        "border-width",
+        "border-style",
+        "border-color"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "9",
+      "topicId": "2",
+      "question": "Thuộc tính nào giúp ẩn phần tử mà không mất không gian?",
+      "answers": [
+        "display: none",
+        "visibility: hidden",
+        "opacity: 0",
+        "hidden"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "10",
+      "topicId": "3",
+      "question": "JavaScript là loại ngôn ngữ gì?",
+      "answers": [
+        "Ngôn ngữ lập trình",
+        "Ngôn ngữ đánh dấu",
+        "Ngôn ngữ biên dịch",
+        "Ngôn ngữ kịch bản"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": "11",
+      "topicId": "3",
+      "question": "Từ khóa nào dùng để khai báo biến trong JavaScript?",
+      "answers": [
+        "int",
+        "let",
+        "var",
+        "const"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": "12",
+      "topicId": "3",
+      "question": "Phương thức nào dùng để in ra console trong JavaScript?",
+      "answers": [
+        "console.log()",
+        "print()",
+        "log.console()",
+        "console.write()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "13",
+      "topicId": "4",
+      "question": "ReactJS được phát triển bởi công ty nào?",
+      "answers": [
+        "Google",
+        "Facebook",
+        "Microsoft",
+        "Apple"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "14",
+      "topicId": "4",
+      "question": "JSX là gì trong React?",
+      "answers": [
+        "JavaScript XML",
+        "Java Syntax Extension",
+        "Java Standard Exchange",
+        "JavaScript Extra"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "15",
+      "topicId": "1",
+      "question": "Thẻ nào là một phần tử ngữ nghĩa trong HTML5?",
+      "answers": [
+        "<div>",
+        "<span>",
+        "<article>",
+        "<bold>"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": "16",
+      "topicId": "1",
+      "question": "Thuộc tính nào xác định phần tử HTML có thể được chỉnh sửa?",
+      "answers": [
+        "editable",
+        "contenteditable",
+        "edit",
+        "contentedit"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "17",
+      "topicId": "2",
+      "question": "Thuộc tính nào dùng để tạo hiệu ứng chuyển động?",
+      "answers": [
+        "animation",
+        "transition",
+        "transform",
+        "translate"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "18",
+      "topicId": "2",
+      "question": "Flexbox có thuộc tính nào để căn giữa theo chiều dọc?",
+      "answers": [
+        "justify-content",
+        "align-items",
+        "vertical-align",
+        "flex-center"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "19",
+      "topicId": "2",
+      "question": "Thuộc tính nào tạo hiệu ứng đổ bóng cho phần tử?",
+      "answers": [
+        "shadow",
+        "box-shadow",
+        "element-shadow",
+        "drop-shadow"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "20",
+      "topicId": "3",
+      "question": "Phương thức nào thêm phần tử vào cuối mảng?",
+      "answers": [
+        "push()",
+        "pop()",
+        "shift()",
+        "unshift()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "21",
+      "topicId": "3",
+      "question": "Hàm setTimeout thuộc loại gì?",
+      "answers": [
+        "Synchronous",
+        "Asynchronous",
+        "Promise",
+        "Callback"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "22",
+      "topicId": "3",
+      "question": "Toán tử nào so sánh cả giá trị và kiểu dữ liệu?",
+      "answers": [
+        "==",
+        "===",
+        "=",
+        "!=="
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "23",
+      "topicId": "3",
+      "question": "Cú pháp import module trong ES6?",
+      "answers": [
+        "require()",
+        "import",
+        "include",
+        "using"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "24",
+      "topicId": "4",
+      "question": "Hook nào dùng để quản lý state trong function component?",
+      "answers": [
+        "useEffect",
+        "useState",
+        "useContext",
+        "useReducer"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "25",
+      "topicId": "4",
+      "question": "Phương thức vòng đời nào chạy sau khi component render?",
+      "answers": [
+        "componentWillMount",
+        "componentDidMount",
+        "componentUpdate",
+        "render"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "26",
+      "topicId": "4",
+      "question": "Cách nào để truyền dữ liệu từ component cha xuống con?",
+      "answers": [
+        "state",
+        "props",
+        "context",
+        "redux"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "27",
+      "topicId": "4",
+      "question": "Package nào dùng để quản lý routing trong React?",
+      "answers": [
+        "React Router",
+        "React Route",
+        "React Navigation",
+        "React Link"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "28",
+      "topicId": "4",
+      "question": "Cách đúng để render component điều kiện trong JSX?",
+      "answers": [
+        "Sử dụng if...else",
+        "Sử dụng switch",
+        "Sử dụng toán tử điều kiện ? :",
+        "Sử dụng toán tử &&"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": "29",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một bảng trong HTML?",
+      "answers": [
+        "<table>",
+        "<tr>",
+        "<td>",
+        "<th>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "30",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để xác định một hàng tiêu đề trong bảng?",
+      "answers": [
+        "<thead>",
+        "<th>",
+        "<header>",
+        "<h1>"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "31",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để nhúng một hình ảnh trong HTML?",
+      "answers": [
+        "<img>",
+        "<image>",
+        "<picture>",
+        "<src>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "32",
+      "topicId": "1",
+      "question": "Thuộc tính nào của thẻ <img> xác định đường dẫn đến hình ảnh?",
+      "answers": [
+        "src",
+        "href",
+        "link",
+        "url"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "33",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một danh sách không có thứ tự?",
+      "answers": [
+        "<ul>",
+        "<ol>",
+        "<li>",
+        "<dl>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "34",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một phần tử đầu đề lớn nhất?",
+      "answers": [
+        "<h1>",
+        "<h2>",
+        "<h3>",
+        "<h4>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "35",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để thêm một tooltip vào phần tử?",
+      "answers": [
+        "title",
+        "alt",
+        "tooltip",
+        "info"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "36",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một form trong HTML?",
+      "answers": [
+        "<form>",
+        "<input>",
+        "<button>",
+        "<submit>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "37",
+      "topicId": "1",
+      "question": "Thuộc tính nào của thẻ <input> xác định loại dữ liệu nhập vào?",
+      "answers": [
+        "type",
+        "input",
+        "data",
+        "format"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "38",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một nút bấm trong HTML?",
+      "answers": [
+        "<button>",
+        "<input>",
+        "<submit>",
+        "<click>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "39",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để tạo một trường nhập văn bản nhiều dòng?",
+      "answers": [
+        "<textarea>",
+        "<input>",
+        "<text>",
+        "<multiline>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "40",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một liên kết email?",
+      "answers": [
+        "<a href='mailto:'>",
+        "<email>",
+        "<mail>",
+        "<link>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "41",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để xác định một phần tử có thể được kéo thả?",
+      "answers": [
+        "draggable",
+        "dropzone",
+        "drag",
+        "move"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "42",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một phần tử footer?",
+      "answers": [
+        "<footer>",
+        "<bottom>",
+        "<end>",
+        "<foot>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "43",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để xác định một phần tử có thể được phóng to?",
+      "answers": [
+        "contenteditable",
+        "spellcheck",
+        "translate",
+        "zoom"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "44",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một phần tử header?",
+      "answers": [
+        "<header>",
+        "<head>",
+        "<h1>",
+        "<top>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "45",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để xác định một phần tử có thể được chỉnh sửa?",
+      "answers": [
+        "contenteditable",
+        "editable",
+        "edit",
+        "change"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "46",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một phần tử nav?",
+      "answers": [
+        "<nav>",
+        "<navigation>",
+        "<menu>",
+        "<list>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "47",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để xác định một phần tử có thể được ẩn đi?",
+      "answers": [
+        "hidden",
+        "visible",
+        "display",
+        "show"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "48",
+      "topicId": "1",
+      "question": "Thẻ nào được sử dụng để tạo một phần tử section?",
+      "answers": [
+        "<section>",
+        "<div>",
+        "<area>",
+        "<part>"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "49",
+      "topicId": "1",
+      "question": "Thuộc tính nào được sử dụng để xác định một phần tử có thể được phóng to?",
+      "answers": [
+        "zoom",
+        "scale",
+        "resize",
+        "expand"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "50",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi màu chữ trong CSS?",
+      "answers": [
+        "color",
+        "background-color",
+        "font-color",
+        "text-color"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "51",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kích thước chữ trong CSS?",
+      "answers": [
+        "font-size",
+        "text-size",
+        "size",
+        "font"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "52",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ trong CSS?",
+      "answers": [
+        "font-family",
+        "font-style",
+        "text-family",
+        "style"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "53",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi độ đậm của chữ trong CSS?",
+      "answers": [
+        "font-weight",
+        "text-weight",
+        "bold",
+        "weight"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "54",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi căn lề văn bản trong CSS?",
+      "answers": [
+        "text-align",
+        "align",
+        "text-justify",
+        "justify"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "55",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi khoảng cách giữa các dòng trong CSS?",
+      "answers": [
+        "line-height",
+        "text-height",
+        "spacing",
+        "line-spacing"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "56",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi khoảng cách giữa các chữ cái trong CSS?",
+      "answers": [
+        "letter-spacing",
+        "text-spacing",
+        "char-spacing",
+        "spacing"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "57",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu gạch chân văn bản trong CSS?",
+      "answers": [
+        "text-decoration",
+        "underline",
+        "text-style",
+        "decoration"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "58",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu in nghiêng văn bản trong CSS?",
+      "answers": [
+        "font-style",
+        "text-style",
+        "italic",
+        "style"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "59",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ hoa trong CSS?",
+      "answers": [
+        "text-transform",
+        "text-case",
+        "case",
+        "transform"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "60",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ thường trong CSS?",
+      "answers": [
+        "text-transform",
+        "text-case",
+        "case",
+        "transform"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "61",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ đậm trong CSS?",
+      "answers": [
+        "font-weight",
+        "text-weight",
+        "bold",
+        "weight"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "62",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ nhỏ trong CSS?",
+      "answers": [
+        "font-size",
+        "text-size",
+        "small",
+        "size"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "63",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ lớn trong CSS?",
+      "answers": [
+        "font-size",
+        "text-size",
+        "large",
+        "size"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "64",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ đậm và nghiêng trong CSS?",
+      "answers": [
+        "font-style",
+        "font-weight",
+        "text-style",
+        "style"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "65",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ đậm và nhỏ trong CSS?",
+      "answers": [
+        "font-size",
+        "font-weight",
+        "text-size",
+        "size"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "66",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ đậm và lớn trong CSS?",
+      "answers": [
+        "font-size",
+        "font-weight",
+        "text-size",
+        "size"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "67",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ đậm và gạch chân trong CSS?",
+      "answers": [
+        "font-weight",
+        "text-decoration",
+        "text-weight",
+        "decoration"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "68",
+      "topicId": "2",
+      "question": "Thuộc tính nào được sử dụng để thay đổi kiểu chữ đậm và in nghiêng trong CSS?",
+      "answers": [
+        "font-style",
+        "font-weight",
+        "text-style",
+        "style"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": "69",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để thêm một phần tử vào đầu mảng trong JavaScript?",
+      "answers": [
+        "unshift()",
+        "push()",
+        "shift()",
+        "pop()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "70",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để xóa phần tử cuối cùng của mảng trong JavaScript?",
+      "answers": [
+        "pop()",
+        "shift()",
+        "unshift()",
+        "push()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "71",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để xóa phần tử đầu tiên của mảng trong JavaScript?",
+      "answers": [
+        "shift()",
+        "pop()",
+        "unshift()",
+        "push()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "72",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để thêm một phần tử vào cuối mảng trong JavaScript?",
+      "answers": [
+        "push()",
+        "pop()",
+        "shift()",
+        "unshift()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "73",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để tìm kiếm một phần tử trong mảng trong JavaScript?",
+      "answers": [
+        "indexOf()",
+        "find()",
+        "search()",
+        "lookup()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "74",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để sắp xếp các phần tử trong mảng trong JavaScript?",
+      "answers": [
+        "sort()",
+        "order()",
+        "arrange()",
+        "sequence()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "75",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để đảo ngược các phần tử trong mảng trong JavaScript?",
+      "answers": [
+        "reverse()",
+        "flip()",
+        "invert()",
+        "backwards()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "76",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để nối hai mảng trong JavaScript?",
+      "answers": [
+        "concat()",
+        "join()",
+        "merge()",
+        "combine()"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "77",
+      "topicId": "3",
+      "question": "Phương thức nào được sử dụng để chuyển đổi mảng thành chuỗi trong JavaScript?",
+      "answers": [
+        "join()",
+        "toString()",
+        "convert()",
+        "stringify()"
+      ],
+      "correctAnswer": "3"
+    }
+  ],
+  "answers": [
+    {
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "1"
+        },
+        {
+          "questionId": "2",
+          "answer": "1"
+        },
+        {
+          "questionId": "3",
+          "answer": "0"
+        },
+        {
+          "questionId": "4",
+          "answer": "1"
+        }
+      ],
+      "id": "7f3a"
+    },
+    {
+      "userId": "2",
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": "6",
+          "answer": "0"
+        },
+        {
+          "questionId": "7",
+          "answer": "1"
+        },
+        {
+          "questionId": "8",
+          "answer": "0"
+        },
+        {
+          "questionId": "9",
+          "answer": "1"
+        }
+      ],
+      "id": "209b"
+    },
+    {
+      "userId": "3",
+      "topicId": "3",
+      "answers": [
+        {
+          "questionId": "10",
+          "answer": "3"
+        },
+        {
+          "questionId": "11",
+          "answer": "2"
+        },
+        {
+          "questionId": "12",
+          "answer": "0"
+        }
+      ],
+      "id": "bfe0"
+    },
+    {
+      "userId": "1",
+      "topicId": "4",
+      "answers": [
+        {
+          "questionId": "13",
+          "answer": "1"
+        },
+        {
+          "questionId": "14",
+          "answer": "0"
+        }
+      ],
+      "id": "2ee5"
+    },
+    {
+      "id": "f57d",
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "2"
+        },
+        {
+          "questionId": "4",
+          "answer": "1"
+        },
+        {
+          "questionId": "5",
+          "answer": "2"
+        },
+        {
+          "questionId": "15",
+          "answer": "3"
+        },
+        {
+          "questionId": "32",
+          "answer": "1"
+        },
+        {
+          "questionId": "36",
+          "answer": "3"
+        },
+        {
+          "questionId": "38",
+          "answer": "1"
+        },
+        {
+          "questionId": "39",
+          "answer": "2"
+        },
+        {
+          "questionId": "40",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "8222",
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "2"
+        },
+        {
+          "questionId": "4",
+          "answer": "1"
+        },
+        {
+          "questionId": "5",
+          "answer": "2"
+        },
+        {
+          "questionId": "15",
+          "answer": "3"
+        },
+        {
+          "questionId": "32",
+          "answer": "1"
+        },
+        {
+          "questionId": "36",
+          "answer": "3"
+        },
+        {
+          "questionId": "38",
+          "answer": "1"
+        },
+        {
+          "questionId": "39",
+          "answer": "2"
+        },
+        {
+          "questionId": "40",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "dc0b",
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "2"
+        },
+        {
+          "questionId": "4",
+          "answer": "1"
+        },
+        {
+          "questionId": "5",
+          "answer": "2"
+        },
+        {
+          "questionId": "15",
+          "answer": "3"
+        },
+        {
+          "questionId": "32",
+          "answer": "1"
+        },
+        {
+          "questionId": "36",
+          "answer": "3"
+        },
+        {
+          "questionId": "38",
+          "answer": "1"
+        },
+        {
+          "questionId": "39",
+          "answer": "2"
+        },
+        {
+          "questionId": "40",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "60ff",
+      "userId": "1",
+      "topicId": "1",
+      "answers": []
+    },
+    {
+      "id": "c5b8",
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "34",
+          "answer": "2"
+        },
+        {
+          "questionId": "38",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "ed4b",
+      "userId": "1",
+      "topicId": "3",
+      "answers": []
+    },
+    {
+      "id": "f62a",
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "2"
+        },
+        {
+          "questionId": "2",
+          "answer": "1"
+        },
+        {
+          "questionId": "4",
+          "answer": "2"
+        },
+        {
+          "questionId": "15",
+          "answer": "3"
+        },
+        {
+          "questionId": "16",
+          "answer": "3"
+        },
+        {
+          "questionId": "31",
+          "answer": "1"
+        },
+        {
+          "questionId": "32",
+          "answer": "1"
+        },
+        {
+          "questionId": "34",
+          "answer": "1"
+        },
+        {
+          "questionId": "38",
+          "answer": "1"
+        },
+        {
+          "questionId": "41",
+          "answer": "3"
+        },
+        {
+          "questionId": "44",
+          "answer": "0"
+        }
+      ]
+    },
+    {
+      "id": "2ecf",
+      "userId": "2",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "2"
+        },
+        {
+          "questionId": "2",
+          "answer": "0"
+        },
+        {
+          "questionId": "3",
+          "answer": "0"
+        },
+        {
+          "questionId": "4",
+          "answer": "2"
+        },
+        {
+          "questionId": "5",
+          "answer": "3"
+        },
+        {
+          "questionId": "15",
+          "answer": "2"
+        },
+        {
+          "questionId": "16",
+          "answer": "1"
+        },
+        {
+          "questionId": "29",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "35a0",
+      "userId": "1",
+      "topicId": "3",
+      "answers": [
+        {
+          "questionId": "10",
+          "answer": "0"
+        },
+        {
+          "questionId": "11",
+          "answer": "3"
+        },
+        {
+          "questionId": "12",
+          "answer": "0"
+        },
+        {
+          "questionId": "20",
+          "answer": "1"
+        },
+        {
+          "questionId": "21",
+          "answer": "2"
+        },
+        {
+          "questionId": "22",
+          "answer": "1"
+        },
+        {
+          "questionId": "23",
+          "answer": "1"
+        },
+        {
+          "questionId": "69",
+          "answer": "1"
+        },
+        {
+          "questionId": "70",
+          "answer": "2"
+        },
+        {
+          "questionId": "71",
+          "answer": "0"
+        },
+        {
+          "questionId": "72",
+          "answer": "1"
+        },
+        {
+          "questionId": "73",
+          "answer": "1"
+        },
+        {
+          "questionId": "74",
+          "answer": "0"
+        },
+        {
+          "questionId": "75",
+          "answer": "0"
+        },
+        {
+          "questionId": "76",
+          "answer": "2"
+        },
+        {
+          "questionId": "77",
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "id": "922a",
+      "userId": "1",
+      "topicId": "3",
+      "answers": [
+        {
+          "questionId": "10",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": "7686",
+      "userId": "1",
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": "1",
+          "answer": "2"
+        },
+        {
+          "questionId": "2",
+          "answer": "2"
+        },
+        {
+          "questionId": "15",
+          "answer": "2"
+        },
+        {
+          "questionId": "16",
+          "answer": "1"
+        },
+        {
+          "questionId": "31",
+          "answer": "2"
+        },
+        {
+          "questionId": "32",
+          "answer": "1"
+        },
+        {
+          "questionId": "33",
+          "answer": "1"
+        },
+        {
+          "questionId": "34",
+          "answer": "2"
+        },
+        {
+          "questionId": "37",
+          "answer": "1"
+        },
+        {
+          "questionId": "38",
+          "answer": "1"
+        },
+        {
+          "questionId": "39",
+          "answer": "2"
+        },
+        {
+          "questionId": "40",
+          "answer": "3"
+        },
+        {
+          "questionId": "41",
+          "answer": "2"
+        },
+        {
+          "questionId": "43",
+          "answer": "1"
+        },
+        {
+          "questionId": "44",
+          "answer": "3"
+        },
+        {
+          "questionId": "46",
+          "answer": "2"
+        },
+        {
+          "questionId": "48",
+          "answer": "1"
+        },
+        {
+          "questionId": "49",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "1fd9",
+      "userId": "1",
+      "topicId": "3",
+      "answers": [
+        {
+          "questionId": "10",
+          "answer": "3"
+        }
+      ]
+    }
+  ]
+}

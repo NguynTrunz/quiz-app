@@ -1,0 +1,20 @@
+.home {
+  &__button {
+    margin: 20px 0;
+
+    &-topic {
+      text-decoration: none;
+      padding: 5px 10px;
+      color: black;
+      border: 2px solid #ddd;
+      margin-right: 10px;
+    }
+
+    &-answers {
+      text-decoration: none;
+      padding: 5px 10px;
+      color: black;
+      border: 2px solid #ddd;
+    }
+  }
+}

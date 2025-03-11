@@ -1,0 +1,19 @@
+.result {
+  &__item {
+    margin-bottom: 20px;
+    &-title{
+      font-weight: 700;
+    }
+
+    &-title--correct,
+    &-answer--correct{
+      color: green;
+      font-weight: 700;
+    }
+
+    &-title--incorrect,
+    &-answer--selected {
+      color: red;
+    }
+  }
+}
