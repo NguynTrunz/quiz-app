@@ -3,9 +3,16 @@ import logo from "../../image/logo.png"
 import { checkExits, register } from "../../services/usersService";
 import { generateToken } from "../../helpers/generateToken";
 import "../Login/style.scss"
+import { useEffect, useRef } from "react";
 function Register() {
   const navigate = useNavigate();
+  const inputRef = useRef();
 
+  useEffect(() => {
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
+  }, []);
   const handleSubmit = async (e) => {
     e.preventDefault();
     const fullName = e.target[0].value;
@@ -42,7 +49,7 @@ function Register() {
             <p>Đăng kí</p>
           </div>
           <div className="login__main">
-            <input type="text" placeholder="Nhập họ và tên" />
+            <input ref={inputRef} type="text" placeholder="Nhập họ và tên" />
             <input type="email" placeholder="Nhập email" />
             <input type="password" placeholder="Nhập mật khẩu" />
             <button type="submit">Đăng nhập</button>
